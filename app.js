@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('me', (req, res) => {
-    res.send('hello again')
+    res.send('meeeeeeeeeee :)')
 });
 
 app.listen(3000);
