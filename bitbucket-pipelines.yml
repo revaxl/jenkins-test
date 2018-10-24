@@ -13,4 +13,4 @@ pipelines:
         script: # Modify the commands below to build your repository.
           - node -v
           - npm install
-          - npm test
+          - echo "hello world"
