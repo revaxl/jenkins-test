@@ -1,12 +1,12 @@
 {
   "name": "jenkins_test",
   "version": "1.0.0",
-  "description": "",
+  "description": "testing CI/CD",
   "main": "app.js",
   "scripts": {
     "test": "mocha --exit"
   },
-  "author": "",
+  "author": "anas",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
