@@ -9,6 +9,6 @@ app.get('me', (req, res) => {
     res.send('meeeeeeeeeee :)')
 });
 
-app.listen(3000);
+app.listen(process.env.PORT);
 
 module.exports = app;
